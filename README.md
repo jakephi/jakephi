@@ -1,7 +1,7 @@
-- 👋 Hey, I’m @jakephi
-- 👀 I’m interested in ... technology, open source, solving problems
-- 🌱 I’m currently learning ... javascript (and then I'll look at React and Node!)
-- 💞️ I’m looking to collaborate on ... anything, really
+- 👋 Hey, I’m @jakephi and I'm new around here.
+- 👀 I’m interested in ... technology, open source, solving problems.
+- 👨‍🎓 I’m currently learning ... javascript (and then I'll look at React and Node)
+- 💥 I’m looking to collaborate on ... anything, really!
 - 📫 How to reach me ... 
 
 <!---
